@@ -1,0 +1,5 @@
+C:\Users\Syed Own\source\repos\DsFinalP\DsFinalP\Debug\DsFinalP.vcxproj.AssemblyReference.cache
+C:\Users\Syed Own\source\repos\DsFinalP\DsFinalP\Debug\DsFinalP.MyForm.resources
+C:\Users\Syed Own\source\repos\DsFinalP\DsFinalP\Debug\DsFinalP.vcxproj.GenerateResource.cache
+C:\Users\Syed Own\source\repos\DsFinalP\DsFinalP\Debug\DsFinalP.MyForm1.resources
+C:\Users\Syed Own\source\repos\DsFinalP\DsFinalP\Debug\DsFinalP.MyForm2.resources

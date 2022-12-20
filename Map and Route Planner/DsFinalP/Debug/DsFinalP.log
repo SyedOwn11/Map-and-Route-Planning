@@ -1,0 +1,19 @@
+﻿  MyForm.cpp
+C:\Users\Syed Own\source\repos\DsFinalP\DsFinalP\graph.h(124,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Syed Own\source\repos\DsFinalP\DsFinalP\graph.h(134,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Syed Own\source\repos\DsFinalP\DsFinalP\graph.h(173,27): warning C4018: '<': signed/unsigned mismatch
+  MyForm1.cpp
+C:\Users\Syed Own\source\repos\DsFinalP\DsFinalP\graph.h(124,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Syed Own\source\repos\DsFinalP\DsFinalP\graph.h(134,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Syed Own\source\repos\DsFinalP\DsFinalP\graph.h(173,27): warning C4018: '<': signed/unsigned mismatch
+  MyForm2.cpp
+C:\Users\Syed Own\source\repos\DsFinalP\DsFinalP\graph.h(124,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Syed Own\source\repos\DsFinalP\DsFinalP\graph.h(134,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Syed Own\source\repos\DsFinalP\DsFinalP\graph.h(173,27): warning C4018: '<': signed/unsigned mismatch
+  graph.cpp
+C:\Users\Syed Own\source\repos\DsFinalP\DsFinalP\graph.h(124,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Syed Own\source\repos\DsFinalP\DsFinalP\graph.h(134,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Syed Own\source\repos\DsFinalP\DsFinalP\graph.h(173,27): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  graph.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  DsFinalP.vcxproj -> C:\Users\Syed Own\source\repos\DsFinalP\Debug\DsFinalP.exe
